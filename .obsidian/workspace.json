@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "buttons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "buttons"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "eb2547bb3c6d2eee",
@@ -178,9 +178,9 @@
   },
   "active": "6cace8e360ca92e4",
   "lastOpenFiles": [
-    "README.md",
+    "design-styles-css.md",
     "buttons.md",
-    "Pasted image 20250717113332.png",
-    "design-styles-css.md"
+    "README.md",
+    "Pasted image 20250717113332.png"
   ]
 }
