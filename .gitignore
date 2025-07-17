@@ -115,3 +115,8 @@ MANIFEST
 # Temporary files
 *.tmp
 *.temp
+
+.obsidian
+.obsidian/*
+/.obsidian/workspace.json
+/.obsidian/app.json
